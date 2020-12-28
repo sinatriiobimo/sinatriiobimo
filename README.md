@@ -20,7 +20,7 @@ I'm B-mo, a Computer Science Student 🎓💻 from Indonesia. I'm interest in So
 
 ---
 
-###✍ Github Stats:
+### ✍ Github Stats:
 
 <img align="left" alt="Sintario Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinatriiobimo&show_icons=true">
 
