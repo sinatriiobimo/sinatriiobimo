@@ -3,7 +3,7 @@ I'm B-mo, a Computer Science Student 🎓💻 from Indonesia. I'm interest in So
 
 ### I'm a Student, Developer, & Cat Person
 - 🏢 I'm currently working as Project Assistant CRM at Adira Finance
-- 🚀 I'm currently learning NODE.JS and Golang
+- 🚀 I'm currently learning NodeJS and Golang
 - 👋 I'm currently active in Developer Student Clubs Chapter Gunadarma University as Web Developer
 - 🎯 2021 Goals: Winning hackathon & get an internship
 - ⚡ Fun fact: Music and Cat are my second universe
