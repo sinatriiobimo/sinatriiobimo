@@ -42,10 +42,8 @@ I'm B-mo, a Computer Science Student 🎓💻 from Indonesia. I'm interest in So
 <img align="left" alt="Sintario Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinatriiobimo&show_icons=true">
 
 <br/>
-<br/>
-<br/>
 
-<img align="left" alt="Sintario Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatriiobimo&langs_count=8">
+<img align="left" alt="Sintario Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatriiobimo&layout=compact">
 
 [linkedin]: https://www.linkedin.com/in/sinatrio-bimo-wahyudi-bbb01a193/
 [twitter]: https://twitter.com/sntrbm
