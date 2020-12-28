@@ -33,7 +33,9 @@ I'm B-mo, a Computer Science Student 🎓💻 from Indonesia. I'm interest in So
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 
 <br/>
-<br/>
+---
+
+<img align="left" alt="Sintario Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinatriiobimo&show_icons=true">
 
 [linkedin]:https://www.linkedin.com/in/sinatrio-bimo-wahyudi-bbb01a193/
 [twitter]:https://twitter.com/sntrbm
