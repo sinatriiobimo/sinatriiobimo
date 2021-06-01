@@ -4,7 +4,7 @@ I'm B-mo, a Computer Science Student 🎓💻 from Indonesia. I'm interest in So
 ### I'm a Student, Developer, & Human
 - 🏢 I'm currently active as Supervisor Web Development at Google DSC Chapter Gunadarma University
 - 🚀 I'm currently learning Backend Engineering and Machine Learning
-- 👋 I'm currently active in Developer Student Clubs Chapter Gunadarma University as Web Developer
+- 👋 I'm frequently using Javascript & Golang for Web and Python for Machine Learning
 - 🎯 2021 Goals: Winning hackathon & get an internship
 - ⚡ Fun fact: Music and Cat are my second universe
 
