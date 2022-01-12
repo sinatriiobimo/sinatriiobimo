@@ -5,7 +5,7 @@ I'm B-mo, a Computer Science Student 🎓💻 from Indonesia. I'm interest in So
 - 🏢 I'm currently active as Software Engineer at Fabelio & Vice Lead at Gunadarma I/O
 - 🚀 I'm currently learning Backend Engineering and Machine Learning
 - 👋 I'm frequently using Javascript (Node.js, Express.js, Nest.js) & Python
-- 🎯 2021 Goals: Winning hackathon & get an internship
+- 🎯 2022 Goals: Graduate & get an fulltime job
 - ⚡ Fun fact: Music and Cat are my second universe
 
 ### Connect with me:
