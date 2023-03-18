@@ -2,10 +2,10 @@
 I'm B-mo, a Computer Science Student 🎓💻 from Indonesia. I'm interest in Software Engineering and really enjoy exploring any tech stack. I am more side lean toward Backend Engineering and passionate about building products with focus on technical solutions. My current plan would be working a lot in engineering while also learn product dev on the other side
 
 ### I'm a Student, Developer, & Human
-- 🏢 I'm currently active as Software Engineer at Mekari & Vice Lead at Gunadarma I/O
-- 🚀 I'm currently learning Backend Engineering and Machine Learning
-- 👋 I'm frequently using Javascript (Node.js, Express.js, Nest.js) & Python
-- 🎯 2022 Goals: Graduate & get an fulltime job
+- 🏢 I'm currently active as Software Engineer at ASTRO
+- 🚀 I'm currently learning Backend & Cloud Engineering 
+- 👋 I'm frequently using Golang, Java, and Javascript
+- 🎯 2023 Goals: Launch my own start-up
 - ⚡ Fun fact: Music and Cat are my second universe
 
 ### Connect with me:
